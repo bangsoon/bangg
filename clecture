@@ -1,0 +1,16 @@
+Typedef Struct  { 
+
+Int length; 
+
+Int width; 
+
+} rectangle; 
+
+Int main() { 
+rectangle myRectangle={5,10} 
+
+Printf("Length is %d, and width is %d",myRectangle.length,myRectangle.width); 
+
+Return 0; 
+
+} 
